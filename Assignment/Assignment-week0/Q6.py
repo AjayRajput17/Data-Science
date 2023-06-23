@@ -1,4 +1,6 @@
 """
+note - This Assignment are written in the pycharm
+
 Q6. Create a list containing 25 int type data. Using for loop and if-else condition print if the element is
 divisible by 3 or not.
 """

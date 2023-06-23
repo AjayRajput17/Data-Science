@@ -1,4 +1,6 @@
 """
+ note - This Assignment are written in the pycharm
+
 Q7. What do you understand about mutable and immutable data types? Give examples for both showing
 this property.
 """

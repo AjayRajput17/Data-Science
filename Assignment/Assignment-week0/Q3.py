@@ -1,4 +1,6 @@
 """""
+note - This Assignment are written in the pycharm
+
 Q3. Explain the use of the following operators using an example:
 (i) /
 (ii) %

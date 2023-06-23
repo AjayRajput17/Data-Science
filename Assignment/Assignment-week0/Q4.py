@@ -1,4 +1,6 @@
 """""
+note - This Assignment are written in the pycharm
+
 Q4. Create a list of length 10 of your choice containing multiple types of data. Using for loop print the
 element and its data type.
 """

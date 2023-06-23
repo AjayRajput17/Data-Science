@@ -1,4 +1,6 @@
 """
+note - This Assignment are written in the pycharm
+
 Q2. Given are some following variables containing data:
 (i) var1 = ‘ ‘
 (ii) var2 = ‘[ DS , ML , Python]’

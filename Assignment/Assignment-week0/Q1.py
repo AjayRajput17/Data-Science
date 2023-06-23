@@ -1,4 +1,6 @@
 """""
+note - This Assignment are written in the pycharm
+
 Q1. Create one variable containing following type of data:
 (i) string
 (ii) list
