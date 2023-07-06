@@ -1,5 +1,0 @@
-hi this is sample2.txt file
-ajay
-gotu
-sonu
-vijay

@@ -1,6 +1,0 @@
-hi this is sample.txt file
-ajay
-gaurav
-shivam
-yash
-mangesh
